@@ -1,7 +1,7 @@
 
-# Elinam Bennet Amudzi | Portfolio Site
+# Elinam Amudzi | Portfolio Site
 
-This is a simple, responsive portfolio website designed for Elinam Bennet Amudzi — showcasing skills in IT support, cloud strategy, business development, and creative project work.
+This is a simple, responsive portfolio website designed for Elinam Amudzi — showcasing skills in IT support, cloud strategy, business development, and creative project work.
 
 ## 🌍 Live Site
 [Visit Site](https://elinam-amudzi.github.io) (Coming soon)
