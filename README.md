@@ -1,10 +1,10 @@
 
 # Elinam Amudzi | Portfolio Site
 
-This is a simple, responsive portfolio website designed for Elinam Amudzi — showcasing skills in IT support, cloud strategy, business development, and creative project work.
+This is a simple, responsive portfolio website designed for Elinam Amudzi — showcasing skills in IT support, network optimization, business development, and creative project work.
 
 ## 🌍 Live Site
-[Visit Site](https://elinam-amudzi.github.io) (Coming soon)
+[Visit Site](https://techy233.github.io/portfolio-site/) (Coming soon)
 
 ## 📁 Project Structure
 
